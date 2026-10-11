@@ -1,0 +1,9 @@
+WEATHER REPORT
+-------------------------
+Latitude: 19.076
+Longitude: 72.8777
+Date and Time: 2026-10-11T15:30
+Timezone: Asia/Kolkata
+Temperature: 36.9 °C
+Wind Speed: 7.5 km/h
+Weather Condition: Light drizzle
